@@ -1,0 +1,5 @@
+# Ignore large model and data files
+*.pkl
+*.csv
+__pycache__/
+.env
